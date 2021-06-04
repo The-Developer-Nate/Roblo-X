@@ -1,4 +1,4 @@
 local LoadingGUI = Instance.new("ScreenGui")
-LoadingGUI.Name="GamerLoading"
+LoadingGUI.Name="Roblo-X-Loading"
 LoadingGUI.ResetOnSpawn=false
 LoadingGUI.Parent=game.CoreGui
